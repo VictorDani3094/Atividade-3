@@ -1,0 +1,22 @@
+@charset utf-8;
+  @import url("fontes.css"); 
+  body {
+    margin: 0;
+    background-image:url(fundoazul.jpg);
+    background-position: center;
+    color:  rgb(27, 26, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+  
+  title {
+    color: black;
+    font-weight: bold;
+     } 
+
+   h1 {
+       color:rgb(8, 226, 143); 
+
+     }
+     h2{
+         color:white
+     }
